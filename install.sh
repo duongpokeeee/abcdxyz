@@ -9,4 +9,4 @@ apt install screen -y
 sudo apt install screen -y
 
 # Tạo một phiên screen và chạy script start.sh
-screen -dmS MyApp bash install.sh
+screen -dmS MyApp bash start.sh
