@@ -1,5 +1,5 @@
 {
   "user": "0xC4C2ca6D265f353972a26B8c8Df5FF4c1C000D7D",
-  "threads": 3,
+  "threads": 6,
   "log": true
 }
